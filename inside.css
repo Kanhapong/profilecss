@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    color: midnightblue;
+}
+.table-menu1 td :link{
+    color: #d9ff00(255, 142, 142);
+}
+.table-menu1 td :hover{
+    background-color: #000000;
+    color: #000000(255, 159, 159);
+    
+}
+
+.table-menu1 {
+    background-color:#030303;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+h4{
+    color: salmon;
+}
